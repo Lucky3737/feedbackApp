@@ -1,0 +1,11 @@
+.emoji {
+  height: 100px;
+  width: 100px;
+}
+.emoji-container {
+  list-style-type: none;
+  margin: 30px;
+}
+.sademoji {
+  margin: 10px;
+}
